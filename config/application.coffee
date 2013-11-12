@@ -29,10 +29,10 @@ steroids.config.location = "http://localhost/views/glimp/index.html"
 # steroids.config.tabBar.backgroundImage = ""
 
 # -- Navigation Bar --
-steroids.config.navigationBar.tintColor = "#00aeef"
-steroids.config.navigationBar.titleColor = "#ffffff"
-steroids.config.navigationBar.buttonTintColor = "#ffffff"
-steroids.config.navigationBar.buttonTitleColor = "#ffffff"
+# steroids.config.navigationBar.tintColor = "#00aeef"
+# steroids.config.navigationBar.titleColor = "#ffffff"
+# steroids.config.navigationBar.buttonTintColor = "#ffffff"
+# steroids.config.navigationBar.buttonTitleColor = "#ffffff"
 
 # steroids.config.navigationBar.landscape.backgroundImage = ""
 # steroids.config.navigationBar.portrait.backgroundImage = ""

@@ -1,1 +1,17 @@
-{"name":"mySteroidsProject","version":"0.0.1","authors":[],"ignore":["**/.*","node_modules","www/components","www/spec","test","tests"],"dependencies":{"steroids-js":"2.7.x","jquery":"2.0.x"}}
+{
+    "authors": [],
+    "dependencies": {
+        "jquery": "2.0.x",
+        "steroids-js": "2.7.x"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "www/components",
+        "www/spec",
+        "test",
+        "tests"
+    ],
+    "name": "Glimp",
+    "version": "0.0.1"
+}
