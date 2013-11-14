@@ -10,7 +10,8 @@
         "www/components",
         "www/spec",
         "test",
-        "tests"
+        "tests",
+		"screenshots"
     ],
     "name": "Glimp",
     "version": "0.0.1"
